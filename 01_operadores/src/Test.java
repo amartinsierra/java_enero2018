@@ -10,7 +10,8 @@ public class Test {
 		//System.out.println(a!=x);//error de compilación
 		int a=3, b=5, c;
 		c=a>b?a*a:b--;
-		//segundo commit
+		//tercer commit
+		int my;
 	}
 
 }
